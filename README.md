@@ -1,5 +1,5 @@
 # cmdlineclock
-a command line style clock with 64 bit Beep
+a command line style clock with 64 bit Beep in Windows 64bit platform(Win 7 64/win sever 2003).
 
 一个在命令行执行的闹钟, python + 批处理(bat) + C#( winring0 底层调用  Beep), 
 运行时显示进度条,
